@@ -1,0 +1,5 @@
+	Tumor_expression	Normal_expression	Frequency	Epitopes
+Tumor_expression	1	2	3	5
+Normal_expression	NA	1	3	5
+Frequency	NA	NA	1	2
+Epitopes	NA	NA	NA	1
