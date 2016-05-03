@@ -1,0 +1,7 @@
+0	Prioritization_of_DE_genes	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/agg.goal.txt
+1	Tumor_expression	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/tumor.rating.txt
+2	Normal_expression	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/normal.rating.txt
+3	Frequency	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/freq.rating.txt
+4	Epitopes	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/epitope.txt
+4.1	Number_of_epitopes	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/number.rating.txt
+4.2	Size_of_epitopes	/Users/Daryanaz/Downloads/package_data/paper_example/round2/Example/size.rating.txt
