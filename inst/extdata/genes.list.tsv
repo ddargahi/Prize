@@ -1,0 +1,11 @@
+Gene	Tumor_expression	Normal_expression	Frequency	Epitope_num	Epitope_size
+BSG|682	High	NA	Many_High	Single	Long
+CD44|960	High	NA	Many_High	Single	Long
+CD38|952	Lower	Low_critical	NA	Single	Long
+CA9|768	High	Low_critical	Many_High	Single	Long
+MUC16|94025	High	Low_critical	Many_High	Single	Long
+CD9|928	High	NA	Few_High	Multiple	Long
+EGFR|1956	High	NA	Many_High	Single	Long
+CD70|970	Lower	Low_No	Many_Low	Single	Long
+MUC1|4582	High	NA	Many_High	Single	Long
+FZD10|11211	NA	Low_critical	NA	Multiple	Long
