@@ -112,8 +112,8 @@ wplot <- function(srcfile, color = 'rainbow', fontsize = 15, xcex = 10, ycex = 1
         theme(axis.ticks=element_blank()) +
         scale_fill_manual(values=colors) + 
         theme(text = element_text(size=fontsize)) + 
-        theme(axis.text.x = element_text(size = xcex)) + 
-        theme(axis.text.y = element_text(size = ycex)) +
+        #theme(axis.text.x = element_text(size = xcex)) + 
+        #theme(axis.text.y = element_text(size = ycex)) +
         geom_text(aes(x = 3.5, y = (ymax+ymin)/2, label = type), size = pcex) + # (ymax+ymin)/2
         xlab(ylab) +
         ylab(xlab) +
